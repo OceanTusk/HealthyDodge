@@ -2,8 +2,9 @@
   "name": "Esquiva la Comida Chatarra",
   "short_name": "ComidaChatarra",
   "description": "Juego para esquivar comida poco saludable",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
+  "scope": "/",
   "background_color": "#87CEEB",
   "theme_color": "#4CAF50",
   "icons": [
